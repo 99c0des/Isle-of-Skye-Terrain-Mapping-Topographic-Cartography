@@ -2,7 +2,13 @@
 
 A GIS-based topographic mapping project exploring the terrain, elevation and physical geography of Scotland's Isle of Skye using Digital Elevation Model (DEM) processing, terrain visualisation and cartographic design.
 
-![Isle of Skye Topographic Map](maps/final_topographic_map.png)
+<p align="center">
+  <img
+    src="Map/isle of skye v2.png"
+    alt="Isle of Skye Topographic Map"
+    width="100%"
+  >
+</p>
 
 ## Project Overview
 
