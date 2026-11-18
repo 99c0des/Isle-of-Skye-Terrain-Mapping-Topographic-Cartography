@@ -5,10 +5,13 @@ A GIS-based topographic mapping project exploring the terrain, elevation and phy
 <p align="center">
   <img
     src="Map/isle of skye v2.png"
-    alt="Isle of Skye Topographic Map"
+    alt="Isle of Skye – Topographic Mapping and Terrain Visualisation"
     width="100%"
   >
+  <br>
+  <em>Topographic visualisation of the Isle of Skye, Scotland.</em>
 </p>
+
 
 ## Project Overview
 
